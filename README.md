@@ -48,7 +48,6 @@ https://public.tableau.com/views/RetailSalesPerformance_17473803640410/Overview?
 
 ![Sales Dashboard Preview](assets/Overview.png)
 
-*(Insert relevant screenshots of your dashboard here)*
 
 ## 📂 How to Explore
 
